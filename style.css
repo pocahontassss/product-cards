@@ -12,9 +12,6 @@ body {
     background-position: 35% 1%;
     background-repeat: no-repeat;
     background-size: 790px;
-}
-
-.main-text-color {
     color: #515076;
 }
 
@@ -36,7 +33,7 @@ body {
     justify-content: center;
     gap: 45px;
     width: 1110px;
-    height: 1191px;
+    height: min-content;
     margin: auto;
 }
 
@@ -59,7 +56,7 @@ body {
     margin: 5px auto;
 }
 
-ul .compound-list {
+.compound-list {
     list-style-position: inside;
     padding: 0;
 }
