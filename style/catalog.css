@@ -1,0 +1,26 @@
+.catalog__container {
+    background-image: url("/images/bg-flowers.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 790px;
+    color: #515076;
+    padding-top: 1px;
+}
+
+.catalog__title {
+    margin-top: 220px;
+    margin-bottom: 110px;
+}
+
+.catalog__products-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 45px;
+    width: 1110px;
+    margin: auto;
+}
+
+.catalog__card {
+    width: 340px;
+}
