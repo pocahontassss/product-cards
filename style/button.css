@@ -8,17 +8,11 @@
 }
 
 .button__text--blue {
-    font-family: Arial ;
-    background-color: snow;
     color: #4682B4;
-    font-size: 15px;
 }
 
 .button__text--red {
-    font-family: Georgia;
-    background-color: #E6E6FA;
     color: #B22222;
-    font-size: 14px;
 }
 
 .button__text--big {
@@ -27,4 +21,20 @@
 
 .button__text--small {
     font-size: 10px;
+}
+
+.button__text_font_arial {
+    font-family: Arial;
+}
+
+.button__text_font_georgia {
+    font-family: Georgia;
+}
+
+.button__text_bgcolor_lemon {
+    background-color: #FFFACD;
+}
+
+.button__text_bgcolor_skyblue {
+    background-color: #87CEEB;
 }
