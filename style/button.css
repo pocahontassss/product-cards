@@ -1,0 +1,30 @@
+.button__text {
+    font-family: Verdana;
+    font-size: 13px;
+    background-color: #A5A3B9;
+    padding: 3px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.button__text--blue {
+    font-family: Arial ;
+    background-color: snow;
+    color: #4682B4;
+    font-size: 15px;
+}
+
+.button__text--red {
+    font-family: Georgia;
+    background-color: #E6E6FA;
+    color: #B22222;
+    font-size: 14px;
+}
+
+.button__text--big {
+    font-size: 18px;
+}
+
+.button__text--small {
+    font-size: 10px;
+}
